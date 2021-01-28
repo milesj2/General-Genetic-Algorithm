@@ -61,8 +61,7 @@ IMMIGRANT_PROPORTION = int(POP_SIZE * 0.05)
 IMMIGRANT_END_GENERATION = int(NUM_GENERATIONS * 0.6)
 
 # MISC
-# DATA_PATH = os.getcwd()
-DATA_PATH = "D:\\Users\\Miles\\Nextcloud\\Documents\\Education\\UWE\\YR4\\BioComp\\Assignment\\Data\\Data"
+DATA_PATH = os.getcwd()
 HALF_CHANCE = 50
 DEBUG = False
 PRINT_FINAL_POPULATION = False
